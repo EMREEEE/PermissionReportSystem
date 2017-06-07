@@ -1,0 +1,12 @@
+c:\users\emreakturk\documents\visual studio 2013\Projects\ptsIZIN\ptsIZIN\bin\ptsIZIN.dll.config
+c:\users\emreakturk\documents\visual studio 2013\Projects\ptsIZIN\ptsIZIN\bin\ptsIZIN.dll
+c:\users\emreakturk\documents\visual studio 2013\Projects\ptsIZIN\ptsIZIN\bin\ptsIZIN.pdb
+c:\users\emreakturk\documents\visual studio 2013\Projects\ptsIZIN\ptsIZIN\obj\Debug\ptsIZIN.csprojResolveAssemblyReference.cache
+c:\users\emreakturk\documents\visual studio 2013\Projects\ptsIZIN\ptsIZIN\obj\Debug\ptsIZIN.dll
+c:\users\emreakturk\documents\visual studio 2013\Projects\ptsIZIN\ptsIZIN\obj\Debug\ptsIZIN.pdb
+E:\BENİM YAPTIĞIM PROJJ\staj projeleri\ptsIZIN\ptsIZIN\bin\ptsIZIN.dll.config
+E:\BENİM YAPTIĞIM PROJJ\staj projeleri\ptsIZIN\ptsIZIN\bin\ptsIZIN.dll
+E:\BENİM YAPTIĞIM PROJJ\staj projeleri\ptsIZIN\ptsIZIN\bin\ptsIZIN.pdb
+E:\BENİM YAPTIĞIM PROJJ\staj projeleri\ptsIZIN\ptsIZIN\obj\Debug\ptsIZIN.csprojResolveAssemblyReference.cache
+E:\BENİM YAPTIĞIM PROJJ\staj projeleri\ptsIZIN\ptsIZIN\obj\Debug\ptsIZIN.dll
+E:\BENİM YAPTIĞIM PROJJ\staj projeleri\ptsIZIN\ptsIZIN\obj\Debug\ptsIZIN.pdb
